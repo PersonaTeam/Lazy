@@ -1,4 +1,8 @@
 # Lazy
+
+NOTE: This script is not a copy of lscript and Mohammad Abbasi Coded this script from scratch!
+      Also this Script is ONLY for windows and it will not work in linux.
+
 Lazy is a script that helps you to: 
 
 1- Customize your windows settings
